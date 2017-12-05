@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         adapter.addFragment(new Fragment1(),"Prv Fragment");
         adapter.addFragment(new Fragment2(),"Vtor Fragment");
         adapter.addFragment(new Fragment3(),"Tret Fragment");
-        adapter.addFragment(new Fragment4(),"Cetvrt Fragment");
+        adapter.addFragment(new Fragment4(),"Cetvrt  Fragment");
 
         pager.setAdapter(adapter);
 
